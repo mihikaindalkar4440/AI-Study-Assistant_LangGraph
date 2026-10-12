@@ -31,3 +31,9 @@ AI Study Assistant is an AI-powered chatbot that helps students understand topic
 
 ## Note
 This project was developed for learning and demonstration purposes. API usage may be subject to Google Gemini's quota limits.
+
+
+## Project Screenshot
+
+![AI Study Assistant](Screenshot%20(39).png)
+
